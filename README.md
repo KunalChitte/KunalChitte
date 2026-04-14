@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kunal Chitte
 
-🎯 Aspiring Data Analyst | SQL | Power BI | Python  
+🎯 Data Analyst | SQL | Power BI | Python  
 
 I transform raw data into actionable insights and interactive dashboards that support data-driven decision-making.
 
